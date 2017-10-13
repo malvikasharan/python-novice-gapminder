@@ -1,5 +1,5 @@
 ---
-title: "Programming Style"
+title: "Programming Style & Debugging"
 teaching: 5
 exercises: 5
 questions:
@@ -14,6 +14,15 @@ keypoints:
 - "Follow standard Python style in your code."
 - "Use docstrings to provide online help."
 ---
+
+## Improving a Script
+
+As a group, we will discuss good practices in coding style and approach in the
+context of a script available [here](https://github.com/tobyhodges/debugging-and-style).
+
+To guide the discussion, consider how the points given below could be applied to
+the script to improve the script in that repository.
+
 ## Follow standard Python style in your code.
 
 *   [PEP8](https://www.python.org/dev/peps/pep-0008):
